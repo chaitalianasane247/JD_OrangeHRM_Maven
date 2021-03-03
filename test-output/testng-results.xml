@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="134900" started-at="2021-03-02T08:02:21Z" finished-at="2021-03-02T08:04:36Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="134900" started-at="2021-03-02T08:02:21Z" finished-at="2021-03-02T08:04:36Z">
+      <class name="TestNGListener.Logger.OrangeHRM_Login_Before_After_Example">
+        <test-method status="PASS" signature="LaunchBrowser()[pri:0, instance:TestNGListener.Logger.OrangeHRM_Login_Before_After_Example@2752f6e2]" name="LaunchBrowser" is-config="true" duration-ms="2592" started-at="2021-03-02T13:32:21Z" description="Chrome Browser Launched" finished-at="2021-03-02T13:32:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchBrowser -->
+        <test-method status="PASS" signature="LoginToOrangeHRM()[pri:0, instance:TestNGListener.Logger.OrangeHRM_Login_Before_After_Example@2752f6e2]" name="LoginToOrangeHRM" duration-ms="131383" started-at="2021-03-02T13:32:24Z" description="Verify-post login user land to Dashboard page" finished-at="2021-03-02T13:34:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginToOrangeHRM -->
+        <test-method status="PASS" signature="CloseBrowser()[pri:0, instance:TestNGListener.Logger.OrangeHRM_Login_Before_After_Example@2752f6e2]" name="CloseBrowser" is-config="true" duration-ms="772" started-at="2021-03-02T13:34:35Z" description="Browser Closed Successfully" finished-at="2021-03-02T13:34:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+      </class> <!-- TestNGListener.Logger.OrangeHRM_Login_Before_After_Example -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
